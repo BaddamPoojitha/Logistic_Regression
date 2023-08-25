@@ -22,3 +22,7 @@ Project Accuracy
 
 ![image](https://github.com/BaddamPoojitha/Logistic_Regression/assets/143176328/161159a3-88d7-4444-ad24-818e1b031541)
 
+### conclusion
+According to the model analysis the LogisticRegression algorithm works successfully with range 0.6 accuracy.The accuracy shows that building the model is a successfull
+
+
